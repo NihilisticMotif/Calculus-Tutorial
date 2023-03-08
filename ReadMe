@@ -1,1 +1,14 @@
-Hii
+I create lecture note about calculus and algebra by using Google Colab and LaTex. 
+
+I do this because I enjoy learning mathematics and I realize that this project help me understand Machine Learning better.
+
+This project contain 2 Folders
+1. Theorem   (This folder contains lecture about definition, formula and proof that are relevant to various mathematical operation e.g. trigonometry function, derivartive etc.)
+2. Exercise  (This folder contains lecture about exercising problem and application of the related mathematical field.)
+
+Some lecture file in this repository are not finished and might be undated in the future.
+
+I learn this subject mainly from freeCodeCamp.org calculus (https://youtu.be/HfACrKJ_Y2w) 
+and other website (such as Khan Academy etc., some material are referenced in the lecture)
+
+Thank you for reading my lecture.
